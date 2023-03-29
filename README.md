@@ -1,1 +1,1 @@
-# Athena: Shu Ha Ri - Learning Management System
+# Athena: SHR-Learning Management System
